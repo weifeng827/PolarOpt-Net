@@ -1,17 +1,7 @@
 # PolarOpt-Net
 This repository contains the code and polarization dataset for the paper titled “PolarOpt-Net: Polarization-Guided Self-Supervised Optimization Network for Underwater Image Recovery.”
 
-Previously, we collected a variety of underwater polarization images covering diverse water bodies. The dataset is now available via Baidu Netdisk. The first link provides the complete tank scene dataset with ground truth, the second link corresponds to the natural water body dataset, and the remaining links contain datasets with part polarization angles of 0° and 45. Once the paper is accepted, all remaining angles will be uploaded. Beside, we also constructed the underwater polarization dataset for underwater binocular stereo matching and photogrammetry, which will be uploaded with the remaining dataset.
-
-
-
-(1)https://pan.baidu.com/s/1PUMw69arEB7o0qnp73SuYg  code: be3e  
-
-(2)https://pan.baidu.com/s/1iGQXkRE8BpBYdqZMoYnGgg  code: iqy2
-
-(3)https://pan.baidu.com/s/1TqB4U8n2cEb0g0FPgiDMYA  code: g6yy
-
-(4)https://pan.baidu.com/s/1kdSVV5xvsaUeXSLghLa8Rw  code: yyjr
+Previously, we collected a variety of underwater polarization images covering diverse water bodies. The dataset is now available via https://github.com/weifeng827/UPIEB
 
 
 ![绘图1](https://github.com/user-attachments/assets/208a0685-9226-4c02-8828-cd76232358a4)
